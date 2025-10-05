@@ -73,6 +73,10 @@ body {
     font-weight: 800;
     margin-bottom: 10px;
 }
+.blog-content h2:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
 .blog-content #description {
     color: var(--light-gray);
     font-size: 1rem;
